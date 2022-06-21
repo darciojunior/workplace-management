@@ -1,0 +1,30 @@
+header.header {
+    background: linear-gradient(to right, #000, #323232);
+    display: flex;
+    align-items: center;
+}
+
+.nav-menu {
+
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 100px;
+}
+
+.nav-btn {
+    background: #787878;
+    color: #FFF;
+    padding: 5px 15px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav-btn:hover {
+    background: #FFF;
+    color: #000;
+}

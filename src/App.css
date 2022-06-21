@@ -1,0 +1,19 @@
+.App {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: 10vh 1fr;
+    grid-template-areas: "logo header""content content";
+    height: 100vh;
+}
+
+.logo {
+    grid-area: logo;
+}
+
+header.header {
+    grid-area: header;
+}
+
+main.content {
+    grid-area: content;
+}
