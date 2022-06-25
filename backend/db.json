@@ -1,12 +1,12 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Carlos"
-    },
+  "employees": [
     {
       "id": 2,
-      "name": "Paula"
+      "name": "Paula Nobre"
+    },
+    {
+      "id": 1,
+      "name": "Carlos Eduardo"
     }
   ]
 }
