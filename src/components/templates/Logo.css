@@ -5,6 +5,11 @@
     background-color: #000;
     color: #FFF;
     font-size: 1.5rem;
+    line-height: 1.1rem;
     font-weight: bold;
+}
+
+.logo:hover {
+    color: #FFF;
     text-decoration: none;
 }

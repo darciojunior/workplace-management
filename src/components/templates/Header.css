@@ -5,7 +5,6 @@ header.header {
 }
 
 .nav-menu {
-
     width: 100%;
     display: flex;
     justify-content: flex-end;
@@ -21,10 +20,10 @@ header.header {
     border-radius: 50px;
     font-weight: bold;
     cursor: pointer;
-    text-decoration: none;
 }
 
 .nav-btn:hover {
     background: #FFF;
     color: #000;
+    text-decoration: none;
 }

@@ -1,18 +1,230 @@
 {
   "employees": [
     {
-      "name": "Paulo",
-      "role": "Segurança",
+      "name": "Ana Paula",
+      "department": "Recursos Humanos",
+      "role": "Analista de recursos humanos",
       "workload": "44",
-      "hourlySalary": "12.50",
+      "hourlySalary": "89.42",
+      "email": "anapaula@empresa.com",
+      "phone": "19993253512",
+      "hireDate": "2019-04-15",
       "id": 1
     },
     {
-      "name": "Ana",
-      "role": "Analista",
+      "name": "João Pedro",
+      "department": "Recursos Humanos",
+      "role": "Analista de treinamento e capacitação",
       "workload": "44",
-      "hourlySalary": "13",
+      "hourlySalary": "78.45",
+      "email": "joaopedro@empresa.com",
+      "phone": "19993253513",
+      "hireDate": "2021-07-09",
       "id": 2
+    },
+    {
+      "name": "José Carlos",
+      "department": "Recursos Humanos",
+      "role": "Gerente de recursos humanos",
+      "workload": "44",
+      "hourlySalary": "215.42",
+      "email": "josecarlos@empresa.com",
+      "phone": "19993253510",
+      "hireDate": "2016-02-18",
+      "id": 3
+    },
+    {
+      "name": "Carlos",
+      "department": "Recursos Humanos",
+      "role": "Recrutador",
+      "workload": "44",
+      "hourlySalary": "125.40",
+      "email": "carlos@empresa.com",
+      "phone": "19993251240",
+      "hireDate": "2015-06-12",
+      "id": 4
+    },
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 5
+    },
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 6
+    },
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 7
+    },
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 8
+    },
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 9
+    },
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 10
+    },
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 11
+    },
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 12
+    },
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 13
+    },
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 14
+    }
+    ,
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 15
+    }
+    ,
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 16
+    }
+    ,
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 17
+    }
+    ,
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 18
+    }
+    ,
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 19
+    }
+    ,
+    {
+      "name": "Rafael",
+      "department": "Marketing",
+      "role": "Estagiário",
+      "workload": "44",
+      "hourlySalary": "120",
+      "email": "rafael@empresa.com",
+      "phone": "19993253516",
+      "hireDate": "2021-07-02",
+      "id": 20
     }
   ]
 }
